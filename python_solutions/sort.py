@@ -95,7 +95,7 @@ def quick_sort(a_list):
 
 	quick_sort_helper(a_list, 0 , len(a_list)-1)
 
-	return a_
+	return a_list
 
 
 def min_heap_sort(a_list):
